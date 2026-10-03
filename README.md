@@ -15,25 +15,26 @@ A clean and simple Hyprland setup focused on practical workflows, productivity, 
 
 </div>
 
-**v1.1.0**
+**v1.2.0**
 
-https://github.com/user-attachments/assets/d28c7791-3f7a-42ee-85d3-8bb91c9796c6
+<img width="1920" height="1080" alt="v1 2 0" src="https://github.com/user-attachments/assets/3b4857bc-285a-473a-924c-be89dab714b9" />
 
 Wallpapers: https://wallhaven.cc/user/43pr
 
 ## Features
 
-- **Waybar** — Volume control, mute, and media playback controls.
-- **Settings Menu** — System, network, bluetooth, display, audio, storage, and more.
+- **Top bar** — **Quickshell** - Volume control, mute, and media playback controls, calendar.
+- **Settings Menu** — System, network, bluetooth, display, audio, storage, themes, and more.
 - **Dynamic Colors** — Wallpaper-based color generation with **Matugen**.
-- **Preset Themes** — Default Monochrome, Nord, Tokyo Night, etc. (you can create your own too)
+- **Preset Themes** — Default Monochrome, Nord, Tokyo Night, etc, and easily create your own. 
 - **Wallpaper Selector** — Custom wallpaper picker **(Awww + Quickshell)**.
 - **App Launcher** — **Rofi** Application search, clipboard history, and opacity control.
 - **Zsh + Starship** — Customizable shell with autosuggestions, history, and a polished prompt.
 - **Customizable Power Menu** —  Custom power menu. 
+- **Notes / To do** —  Custom to-do app. 
 - **Hyprlock** — Custom lock screen.
-- **Custom Scripts** — Scripts for workflow and system management.
 - **Spotify + Spicetify** — Custom theme based on **text - darkthemer**, (modified).
+- **Custom Scripts** — Scripts for workflow and system management.
 
 > All programs: [packages.txt](packages.txt)
 
@@ -66,9 +67,10 @@ Just made some tweaks to it. Give it some love: [hyprquickpaper](https://github.
 | `Super + Tab`           | Lock screen               |
 | `Super + Grave`         | Logout menu               |
 | `Super + Mouse wheel`   | Zoom in/out               |
+| `Super + C`             | To do / Notes             |
+| `Super + N`             | Notifications             |
 | `Delete`                | Screenshot fullscreen     |
 | `SHIFT + Delete`        | Screenshot area select    |
-| `Super + L`             | Toggle dark/light mode    |
 
 > To close most quickshell apps just click outside or Esc key.
 
